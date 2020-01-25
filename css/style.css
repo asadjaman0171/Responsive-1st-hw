@@ -1,0 +1,326 @@
+
+header {
+	padding: 25px 0px;
+	background-color: #F6F9F9
+}
+/* banner section start */
+.banner-sec {
+	background-image: url(../img/Strict.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+
+.banner-sec h1{
+
+    font-size: 3.5rem;
+    padding-top: 45px;
+    color: #fff;
+}
+}
+.banner-sec span{
+    display: block;
+    border-bottom: 3px solid #16A4FA;
+    width: 64%;
+    margin: 30px auto;
+}
+.banner-sec p{
+
+
+}
+.banner-sec button {
+	    font-size: 14px;
+    padding: 21px 36px;
+    background: none;
+    color: #FFF;
+    border: 2px solid #32AFFB;
+    margin-top: 68px;
+    margin-bottom: 175px;
+   transition: 0.5s ease;
+} 
+.banner-sec button:hover {
+	color: #fff; 
+	background:#32AFFB;
+
+		
+}
+
+
+i.fa.fa-chevron-down {
+    color: #fff;
+    font-size: 20px;
+    
+    padding-bottom: 47px;
+}
+/* banner section end */
+
+/* Simple section start */
+.Simple-pure-design {
+background-color: #F6F9F9;
+}
+.Simple-content {
+
+}
+
+.Simple-content h1 {
+	font-size: 28px;
+    padding: 65px 0px 55px 0px;
+}
+
+.Simple-content p { 
+	    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 17px;
+    padding-bottom: 110px;
+
+}
+
+/* Simple section end */
+
+/* icon section start */
+
+.icon-sec {
+
+}
+.icon-sec i.fa.fa-mobile {
+
+background-color: #5FC3FF;
+
+padding: 15px 40px;
+
+font-size: 72px;
+
+margin: 3px 0px;
+
+text-align: center;
+}
+.icon-sec i.fa.fa-paper-plane {
+
+background-color: #5FC3FF;
+
+padding: 25px 30px;
+
+font-size: 50px;
+
+margin: 3px 0px;
+
+text-align: center;
+}
+.icon-sec i.fa.fa-bullhorn {
+
+background-color: #5FC3FF;
+
+padding: 25px 30px;
+
+font-size: 50px;
+
+margin: 3px 0px;
+
+text-align: center;
+}
+
+.icon-sec h2 {
+
+
+}
+.icon-sec p {
+
+padding-bottom: 21px;
+}
+/* icon section end */
+
+/* gallery section start */
+
+.gallery-secton {
+	background-color: #F6F9F9;
+
+}
+
+..gallery-secton h2 {
+
+
+}
+
+.gallery-secton p {
+
+
+}
+
+
+
+/* gallery section start */
+
+.gallery-secton {
+
+}
+
+.gallery-secton h2{
+	
+padding: 22px 0px;
+}
+
+.gallery-secton p {
+	
+/* mobile device */
+		
+	padding: 22px 0px;
+}
+.row.part-one {
+
+}
+.row.part-one img {
+
+			padding: 20px 0px;
+}
+
+
+.row.part-two {
+	     padding-bottom: 100px
+}
+
+.row.part-two img {
+	 
+}
+
+/* gallery section end */
+
+/* from section start */
+
+
+
+/* from section end */
+
+.from-sec {
+	background-image: url(../img/last.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+
+
+}
+
+
+.contact-title {
+	color: #fff;
+}
+.contact-title h2 {
+padding: 10px 0px;
+}
+
+.contact-title p {
+	padding: 10px 0px;
+}
+
+.form-control {
+	background: none;
+	margin: 24px 0px 12px 0px;
+	padding: 0px 16px;
+	font-size: 16px;
+	height: 47px;
+}
+.form-sms {
+
+    background: none;
+    width: 100%;
+    height: 192px;
+    padding-bottom: 100px;
+}
+.main-form h6 {
+
+	color: #fff;
+}
+
+.main-form button {
+
+		font-size: 14px;
+
+		padding: 11px 35px;
+
+		background: none;
+
+		color: #FFF;
+
+		border: 2px solid #32AFFB;
+
+		margin: -43px 0px 0px 0px;
+
+		margin-bottom: 175px;
+
+		float: right;
+
+		transition: 0.5s ease;
+}
+
+.main-form button:hover {
+	color: #fff; 
+	background:#32AFFB;
+
+		
+}
+
+/* last sec */
+figure {
+	background-color: #F7F8FA;
+	padding: 20px;
+}
+figure h5 {
+	
+}
+.scl-icon {
+
+
+}
+
+.scl-icon i {
+
+background: #378DC7;
+
+padding: 10px;
+
+font-size: 20px;
+
+color: #fff;
+transition: 0.5s ease;
+}
+.scl-icon i:hover {
+
+background: #111010;
+
+
+color: #378DC7;
+
+}
+
+
+
+/* end last section */
+
+
+/* media quiry */
+
+/* mobile device */
+@media (min-width: 320px) and (max-width: 500px) {
+
+
+}
+
+
+/* small device */
+@media (min-width: 501px) and (max-width: 768px) {
+.row.part-one img { padding: 20px 0px;
+
+}
+.row.part-two img { padding: 20px 0px;
+
+/* medium device */
+
+@media (min-width: 769px) and (max-width: 1200px) {
+
+
+}
+
+/* larg device */
+@media (min-width: 1201px) {
+
+
+}
+
